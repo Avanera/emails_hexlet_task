@@ -34,7 +34,7 @@ gem 'bcrypt'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'i18n-tasks'
-gem 'pg'
+gem 'pg', '~> 1.1'
 gem 'rails-i18n'
 gem 'simple_form'
 gem 'slim-rails'
